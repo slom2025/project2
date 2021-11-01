@@ -17,13 +17,13 @@
 
 // alert(`привет, ${user}`);
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
-console.log(incr++);
-console.log(decr--);
+// console.log(incr++);
+// console.log(decr--);
 
-const isCheked = true,
-      isClose = true;
+// const isCheked = true,
+//       isClose = true;
 
-console.log(isCheked && isClose);
+// console.log(isCheked && isClose);
